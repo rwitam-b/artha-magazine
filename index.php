@@ -33,7 +33,7 @@ body {
 <script>
 var option_df_book_full = {
 	//source: sample.pdf
-    source: "sample2.pdf?" + Math.random(),
+    source: "sample.pdf?" + Math.random(),
 	hard: "cover",
 	webgl: false
 };
